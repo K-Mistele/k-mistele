@@ -13,7 +13,7 @@ I'm Kyle Mistele, CTO of [Naptha AI](https://naptha.ai) and an open-source enthu
 
 
 **Open Source Highlights:**
-
+*   **[mastra](https://github.com/mastra-ai/mastra/pull/7090):** Added support for [Inngest flow control configurations](https://www.inngest.com/docs/guides/flow-control) to Inngest-backended Mastra workflows
 *   **[vllm](https://github.com/vllm-project/vllm):**  Contributing to high-throughput and memory-efficient inference engines for large language models.
 *   **[llama.cpp](https://github.com/ggerganov/llama.cpp):**  Early contributor to Llama.cpp incl. dockerization
 *   **[swarm](https://github.com/k-mistele/swarm):** Model-agnostic TypeScript implementation of OpenAI's Swarm framework, making it easier to build and experiment with AI agent swarms.
