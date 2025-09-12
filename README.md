@@ -1,10 +1,10 @@
 ### Hey there! 👋
 
-I'm Kyle Mistele, CTO of [Naptha AI](https://naptha.ai) and an open-source enthusiast passionate about pushing the boundaries of AI.
+I'm Kyle Mistele, CTO of [HumanLayer](https://humanlayer.dev) and an open-source enthusiast passionate about pushing the boundaries of AI.
 
 **About Me:**
-
-*   🌌 CTO at [Naptha AI](https://naptha.ai) - Building multi-agent systems
+*   🤘 CTO at [HumanLayer](https://humanlayer.dev) - hacking on agents
+*   🌌 prev. CTO at [Naptha AI](https://naptha.ai) - Building multi-agent systems
 *   💻 Active open-source contributor, with a focus on projects like `vllm`, `llama.cpp`, and `r2r`
 *   📲 Product engineer building at every layer of the stack - UI, backend, infra & CI, sysadmin.
 *   🛰️ Passionate about distributed systems and event-driven architectures.
@@ -22,7 +22,7 @@ I'm Kyle Mistele, CTO of [Naptha AI](https://naptha.ai) and an open-source enthu
 
 **Connect with me:**
 
-*   [Website](https://constellate.ai)
+*   [Website](https://blacklight.sh)
 *   [Twitter](https://twitter.com/0xBlacklight)
 *   [LinkedIn](https://linkedin.com/in/kyle-mistele)
 
